@@ -1,3 +1,3 @@
 //To make meaningful
-// My project
-console.log("Hello World!\n");
+// My proj
+console.log("Hello World\n");
